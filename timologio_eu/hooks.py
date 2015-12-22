@@ -12,7 +12,15 @@ app_license = "GNU"
 
 
 website_context = {
-	"disable_website_theme": True
+	"brand_html": "<img class='navbar-icon' src='/assets/frappe_theme/img/erp-icon.svg' />ERPNext",
+	"top_bar_items": [
+		{"label": "Pricing", "url": "/pricing", "right":1},
+		{"label": "Features", "url": "/features", "right":1},
+		{"label": "Docs", "url": "https://manual.erpnext.com", "right":1},
+		{"label": "Blog", "url": "https://blog.frappe.io", "right":1},
+	],
+	"hide_login": 1,
+	"favicon": "/assets/frappe_theme/img/favicon.ico"
 }
 
 # Includes in <head>
