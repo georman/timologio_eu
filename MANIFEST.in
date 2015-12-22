@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include timologio_eu *.css
+recursive-include timologio_eu *.csv
+recursive-include timologio_eu *.html
+recursive-include timologio_eu *.ico
+recursive-include timologio_eu *.js
+recursive-include timologio_eu *.json
+recursive-include timologio_eu *.md
+recursive-include timologio_eu *.png
+recursive-include timologio_eu *.py
+recursive-include timologio_eu *.svg
+recursive-include timologio_eu *.txt
+recursive-exclude timologio_eu *.pyc
