@@ -23,3 +23,5 @@ timologio_eu/timologio_eu/__init__.py
 timologio_eu/www/timologio.html
 timologio_eu/www/timologio1.html
 timologio_eu/www/timologio2.html
+timologio_eu/www/index.html
+timologio_eu/www/onepage.css
