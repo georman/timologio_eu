@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
 app_name = "timologio_eu"
@@ -10,6 +9,11 @@ app_color = "#5a6778"
 app_email = "info@gam.gr"
 app_version = "0.0.1"
 app_license = "GNU"
+
+
+website_context = {
+	"disable_website_theme": True
+}
 
 # Includes in <head>
 # ------------------
