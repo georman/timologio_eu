@@ -1,4 +1,5 @@
- from __future__ import unicode_literals
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
 
 app_name = "timologio_eu"
 app_title = "Timologio_eu"
@@ -33,9 +34,7 @@ website_context = {
 # include js, css files in header of web template
 # web_include_css = "/assets/timologio_eu/css/timologio_eu.css"
 # web_include_js = "/assets/timologio_eu/js/timologio_eu.js"
-web_include_css = "/assets/timologio_eu/css/colors.css"
-web_include_css = "/assets/timologio_eu/css/fonts.css"
-web_include_css = "/assets/timologio_eu/css/et-line.css"
+
 
 # Home Pages
 # ----------
