@@ -1,4 +1,4 @@
-from __future__ import unicode_literals
+ from __future__ import unicode_literals
 
 app_name = "timologio_eu"
 app_title = "Timologio_eu"
