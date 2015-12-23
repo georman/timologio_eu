@@ -13,7 +13,8 @@ app_license = "GNU"
 
 
 website_context = {
-	"hide_login": 1,
+
+	"hide_login": 1
 }
 
 # Includes in <head>

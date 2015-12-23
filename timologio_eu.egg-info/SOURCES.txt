@@ -20,8 +20,3 @@ timologio_eu/templates/__init__.py
 timologio_eu/templates/generators/__init__.py
 timologio_eu/templates/pages/__init__.py
 timologio_eu/timologio_eu/__init__.py
-timologio_eu/www/timologio.html
-timologio_eu/www/timologio1.html
-timologio_eu/www/timologio2.html
-timologio_eu/www/timologio3.html
-
