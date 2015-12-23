@@ -10,7 +10,7 @@ app_color = "black"
 app_email = "info@gam.gr"
 app_version = "0.0.1"
 app_license = "GNU"
-
+hide_in_installer = True
 
 website_context = {
 
