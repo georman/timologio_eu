@@ -16,7 +16,7 @@ website_context = {
 
 	"hide_login": 1
 }
-web_include_css = "/assets/timologio_eu/css/prices.css
+web_include_css = "/assets/timologio_eu/css/prices.css"
 # Includes in <head>
 # ------------------
 
