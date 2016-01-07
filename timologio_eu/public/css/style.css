@@ -1,15 +1,4 @@
-/*-----------------------------------------------------------------------------------
-
-	Theme Name: Canvas
-	Theme URI: http://themes.semicolonweb.com/html/canvas
-	Description: The Multi-Purpose Template
-	Author: SemiColonWeb
-	Author URI: http://themeforest.net/user/semicolonweb
-	Version: 3.1.1
-
------------------------------------------------------------------------------------*/
-
-
+button
 dl, dt, dd, ol, ul, li {
 	margin: 0;
 	padding: 0;
@@ -60,7 +49,7 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #1ABC9C;
+	color: #B30000;
 }
 
 a:hover { color: #222; }
@@ -78,12 +67,19 @@ iframe { border: none !important; }
 
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
 	color: #444;
+	font-weight: 600;
+	line-height: 1.5;
+	margin: 0 0 30px 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+	color: #FFFFFF;
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
@@ -434,8 +430,9 @@ span.middot {
 	position: relative;
 	margin: 60px 0;
 	padding: 60px 0;
-	background-color: #F9F9F9;
+	background-color: #444444;
 	overflow: hidden;
+	text-color: #00000
 }
 
 .parallax {
@@ -5441,13 +5438,7 @@ body:not(.device-touch) .entry-link {
 .ipost .entry-content p { margin-bottom: 0; }
 
 
-.more-link {
-	display: inline-block;
-	border-bottom: 1px solid #1ABC9C;
-	padding: 0 2px;
-	font-family: 'Crete Round', serif;
-	font-style: italic;
-}
+
 
 .more-link:hover { border-bottom-color: #555; }
 
@@ -6811,8 +6802,9 @@ body:not(.device-touch) .button {
 }
 
 .button.button-border.button-light {
-	border-color: #EEE;
-	color: #EEE;
+	background-color: #333;
+
+	color: #FFF;
 }
 
 .button.button-border.button-light:hover {
@@ -10846,7 +10838,7 @@ label.error { display: none !important; }
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #333;
+	color: #FFF;
 }
 
 .emphasis-title h1,
@@ -10918,12 +10910,12 @@ label.error { display: none !important; }
 /* Emphasis Title
 -----------------------------------------------------------------*/
 
-.emphasis-title { margin: 0 0 50px; }
+.emphasis-title { margin: 0 0 10px; }
 
 .emphasis-title h1,
 .emphasis-title h2 {
-	font-size: 64px;
-	letter-spacing: -2px;
+	font-size: 90px;
+	letter-spacing: 2px;
 }
 
 .emphasis-title h1 strong,
@@ -11348,7 +11340,7 @@ body:not(.device-touch) #gotoTop {
 
 .stretched #gotoTop { bottom: 30px; }
 
-#gotoTop:hover { background-color: #1ABC9C; }
+#gotoTop:hover { background-color: #B30000; }
 
 
 /* ----------------------------------------------------------------
