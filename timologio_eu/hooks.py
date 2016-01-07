@@ -21,6 +21,11 @@ website_context = {
 	"hide_login": 1
 }
 
+web_include_css = "/assets/timologio_eu/css/style.css"
+web_include_css = "/assets/timologio_eu/css/animate.css"
+web_include_js = "/assets/timologio_eu/js/jquery.js"
+web_include_js = "/assets/timologio_eu/js/plugins.js"
+
 # Includes in <head>
 # ------------------
 
