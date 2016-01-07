@@ -14,6 +14,7 @@ hide_in_installer = True
 
 website_context = {
           "top_bar_items": [
+		{"label": "Αρχική", "url": "/", "right":1},
 		{"label": "Τιμοκατάλογος", "url": "/pricing", "right":1},
 		{"label": "Χαρακτηριστικά", "url": "/features", "right":1},
 	],
