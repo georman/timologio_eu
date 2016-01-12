@@ -13,6 +13,7 @@ app_license = "GNU"
 hide_in_installer = True
 
 website_context = {
+	"brand_html": "<img class='navbar-icon' src='/assets/timologio_eu/img/timologio_logo.png' />Τιμολόγιο",
           "top_bar_items": [
 		{"label": "Αρχική", "url": "/", "right":1},
 		{"label": "Τιμοκατάλογος", "url": "/pricing", "right":1},
