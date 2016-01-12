@@ -1,0 +1,57 @@
+body {
+    font-family: "proxima-nova",sans-serif;
+    text-rendering: optimizelegibility !important;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 15px;
+    color: #6C7680;
+    line-height: 1.5em;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.erp-feature {
+    padding: 50px 15px;
+    margin: 0px -15px;
+    border-bottom: 1px solid #D1D8DD;
+}
+
+.hero {
+    padding: 70px 0px;
+    font-size: 1.6em;
+    font-weight: 300;
+    border-bottom: 1px solid #E1E9F0;
+    text-align: center;
+}
+
+.hero-content {
+    font-weight: 300;
+    margin-top: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, .lead, .page-sidebar, .breadcrumb, .label, .h6, .sans, blockquote {
+    font-family: "proxima-nova",sans-serif;
+    color: #36414C;
+}
+
+.hero-content p {
+    width: 80%;
+    margin: 0px auto 24px;
+    line-height: 1.4;
+}
+
+.fake-browser-frame {
+    position: relative;
+    max-width: 600px;
+    margin: 40px auto;
+}
