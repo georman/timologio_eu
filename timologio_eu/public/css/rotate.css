@@ -45,11 +45,11 @@
   display: block;
   opacity: 0;
 }
-.rotates h1 { 
+.rotates h6 { 
           color: #EE7505;
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
 	font-family: 'Raleway', sans-serif;
 }
-h1 { font-size: 60px; }
+h6 { font-size: 60px; }
