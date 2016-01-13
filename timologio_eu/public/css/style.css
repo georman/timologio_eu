@@ -93,7 +93,7 @@ h1 { font-size: 50px; }
 
 h2 { font-size: 40px; }
 
-h3 { font-size: 35px; }
+h3 { font-size: 25px; }
 
 h4 { font-size: 18px; }
 
@@ -437,7 +437,7 @@ span.middot {
 .section {
 	position: relative;
 	margin: 60px 0;
-	padding: 60px 0;
+	padding: 30px 0;
 	background-color: #444444;
 	overflow: hidden;
 	text-color: #00000
