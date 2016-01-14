@@ -18,6 +18,7 @@ website_context = {
 		{"label": "Αρχική", "url": "/", "right":1},
 		{"label": "Τιμοκατάλογος", "url": "/pricing", "right":1},
 		{"label": "Χαρακτηριστικά", "url": "/features", "right":1},
+		{"label": "Επικοινωνία", "url": "/contactus", "right":1},
 	],
 	"hide_login": 1
 }
