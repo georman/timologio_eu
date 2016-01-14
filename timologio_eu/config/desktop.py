@@ -5,8 +5,8 @@ from frappe import _
 def get_data():
 	return {
 		"Timologio_eu": {
-			"color": "#5a6778",
-			"icon": "icon-edit",
+			"color": "black",
+			"icon": "icon-globe",
 			"type": "module",
 			"label": _("Timologio_eu")
 		}
