@@ -1,0 +1,44 @@
+@media (min-width: 768px) {
+  .col-sm-4 {
+    float: left;
+  }
+  .col-sm-4 {
+    width: 33.33333333%;
+  }
+.col-sm-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    min-height: 1px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.btn-lg, .btn-group-lg > .btn {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33333;
+    border-radius: 6px;
+}
+.btn-danger {
+    color: #FFF;
+    background-color: #D9534F;
+    border-color: #D43F3A;
+}
+.btn {
+    margin-bottom: 0px;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    -moz-user-select: none;
+ }

@@ -6657,7 +6657,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
 	outline: none;
 	white-space: nowrap;
 	margin: 5px;
-	padding: 0 22px;
+	padding: 0 50px;
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
@@ -9877,7 +9877,7 @@ body:not(.device-touch) .team-overlay {
 .pricing-box.best-price .pricing-title h3 { font-size: 22px; }
 
 .pricing-box.best-price .pricing-price {
-	color: #1ABC9C;
+	color: #EE7505;
 	font-size: 72px;
 }
 
