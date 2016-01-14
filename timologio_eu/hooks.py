@@ -34,7 +34,7 @@ website_context = {
 # web_include_css = "/assets/timologio_eu/css/timologio_eu.css"
 # web_include_js = "/assets/timologio_eu/js/timologio_eu.js"
 
-
+web_include_css = "/assets/timologio_eu/css/style.css"
 
 # Home Pages
 # ----------
