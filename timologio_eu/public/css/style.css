@@ -13234,3 +13234,7 @@ body:not(.no-transition) #wrapper,
 .navbar-default {
     border-color: #FFF;
 }
+
+.navbar-nav {
+    margin-top: 25px;
+}
