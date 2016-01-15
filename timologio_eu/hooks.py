@@ -126,19 +126,3 @@ home_page = "index"
 # 	"frappe.desk.doctype.event.event.get_events": "timologio_eu.event.get_events"
 # }
 
-fixtures = [
-                "Contact Us Settings",
-                "System Settings",
-                "Custom Field",
-                "About Us Settings",
-                "Company",
-                "Sales Taxes and Charges Template",
-                "Purchase Taxes and Charges Template",
-                "Currency",
-                "Mode of Payment",
-                "UOM",
-                "Supplier Type",
-                "Customer",
-                "Item",
-                "Supplier"
-        ]
