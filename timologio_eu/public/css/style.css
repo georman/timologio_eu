@@ -13239,3 +13239,9 @@ body:not(.no-transition) #wrapper,
 .navbar-nav {
     margin-top: 25px;
 }
+
+@media (max-width: 767px) {
+	.navbar .toggle-sidebar {
+		padding: 10px 13px;
+	}
+}
