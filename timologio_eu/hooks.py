@@ -23,6 +23,11 @@ website_context = {
 	"hide_login": 1
 }
 
+fixtures = [
+                "Contact Us Settings",
+                "Web Form",
+                "Email Alert"
+        ]
 # Includes in <head>
 # ------------------
 
