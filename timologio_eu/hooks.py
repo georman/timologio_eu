@@ -127,7 +127,18 @@ home_page = "index"
 # }
 
 fixtures = [
-		"Contact Us Settings",
-		"Customer"
-		"Client"
-	]
+                "Contact Us Settings",
+                "System Settings",
+                "Custom Field",
+                "About Us Settings",
+                "Company",
+                "Sales Taxes and Charges Template",
+                "Purchase Taxes and Charges Template",
+                "Currency",
+                "Mode of Payment",
+                "UOM",
+                "Supplier Type",
+                "Customer",
+                "Item",
+                "Supplier"
+        ]
