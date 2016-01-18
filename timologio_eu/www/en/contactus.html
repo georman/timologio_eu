@@ -1,0 +1,43 @@
+<!-- title: Contact Us -->
+<!-- no-sidebar -->
+<!-- jinja -->
+
+<!-- Navigation -->
+<!-- Hero Section -->
+
+<div class="row hero">
+    <div class="col-sm-12 hero-content">
+        <h1>GAΜ Ltd. &mdash; The Company</h1>
+        <p>Established in 1995, GAM is an internet company based out of Athens, Greece. timologio.gr is our child.</p>
+        <a href="/story">Read the full story.</a>
+    </div>
+</div>
+
+<!-- Content -->
+
+<div class="row hero" style="padding-bottom: 35px; padding-top: 35px;">
+        <div class="col-sm-6 content" id="contact">
+            <h2>Contact us</h2>
+            <p>Have a question or comment? Write in, we would love to hear from you. We’ll write back as soon as we can.</p>
+            <p class="input-label">Subject</p>
+            <input class="form-control" type="text" name="subject">
+            <p class="input-label">Your email</p>
+            <input class="form-control" type="text" name="email">
+            <p class="input-label">Message</p>
+            <textarea class="form-control" name="message" style="height: 200px;"></textarea>
+            <a href=# id="send" class="btn btn-primary btn-send form-control">Send</a>
+        </div>
+        <div class="col-sm-6 content address">
+            <h2>GAM Advertising Ltd.</h2>
+            <p>13 Irakleous str.</p>
+            <p>136 73 Acharnai</p>
+            <p>Athens Greece</p>
+            <p>email:<b>info@gam.gr</b></a></p>
+            <p>Phone: <b>+30 210 2774201 - 001</b> (Office Hours)</p>
+            <img src="/assets/timologio_eu/img/gamlogo.png" class="office-map">
+        </div>
+</div>
+
+<script>
+	{% include "templates/includes/contact.js" %}
+</script>
