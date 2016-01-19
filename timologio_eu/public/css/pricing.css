@@ -11,6 +11,9 @@
     position: relative;
     min-height: 1px;
 }
+.col-sm-6 {
+    padding: 20px 15px;
+}
 * {
     box-sizing: border-box;
 }
@@ -47,5 +50,8 @@
     padding: 15px 15px;
     position: relative;
     min-height: 1px;
+}
+.col-sm-6 {
+    padding: 20px 15px;
 }
 
