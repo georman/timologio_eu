@@ -9856,7 +9856,7 @@ body:not(.device-touch) .team-overlay {
 /* Pricing Boxes - Action
 -----------------------------------------------------------------*/
 
-.pricing-action { padding: 15px 30px; }
+.pricing-action { padding: 15px 0px; }
 
 
 /* Pricing Boxes - Best Price
@@ -10947,7 +10947,6 @@ label.error { display: none !important; }
 .fancy-title h6 {
 	position: relative;
 	display: inline-block;
-	background-color: #FFF;
 	padding-right: 15px;
 	margin-bottom: 0;
 }
