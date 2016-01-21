@@ -1,0 +1,78 @@
+<head>
+	<!-- Stylesheets
+	============================================= -->
+	<link rel="stylesheet" href="/assets/timologio_eu/css/signup.css" type="text/css" />
+
+	<!-- Scripts
+	============================================= -->
+	<script type="text/javascript" src="/assets/timologio_eu/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/assets/timologio_eu/js/signup.js"></script>
+</head>
+
+<!-- title: SignUp -->
+<!-- no-sidebar -->
+
+<!-- Navigation -->
+<!-- Hero Section -->
+
+<h1 class="text-center">
+	Sign Up
+</h1>
+
+<br>
+<div class="container" style="max-width: 700px;">
+    <div class="row">
+        <div class="col-sm-offset-2 col-sm-8">
+            <div class="form-group">
+                <div class="input-group">
+                    <input name="subdomain" placeholder="mycompany" class="form-control" type="text">	<span class="input-group-addon">.timologio.gr</span>
+
+                </div>
+                <p class="help-block">Your subdomain i.e. https://<strong class="subdomain-help">mycompany</strong>.timologio.gr
+                    <br>Must contain only letters, no spaces, numbers or special characters.</p>
+            </div>
+            <div class="form-group">
+                <input name="company_name" placeholder="My Company" class="form-control" type="text">
+                <p class="help-block">Full Name of your Company</p>
+            </div>
+            <div class="form-group">
+                <input name="company_afm" placeholder="123456789" class="form-control" type="text">
+                <p class="help-block">AFM of your Company</p>
+            </div>
+            <div class="form-group">
+                <input name="sender_name" placeholder="Jane Doe" class="form-control" type="text">
+                <p class="help-block">Your First and Last Name <em>(will appear in your user id)</em>
+
+                </p>
+            </div>
+            <div class="form-group">
+                <input name="email" placeholder="jane_doe@example.com" class="form-control" type="text">
+                <p class="help-block">Your Email Address <em>(your login details will be emailed here)</em>
+
+                </p>
+            </div>
+            <div class="form-group">
+                <input name="phone" placeholder="210 1234567" class="form-control" type="text">
+                <p class="help-block">Your Phone Number</p>
+            </div>
+            <div class="form-group select_st">
+                <p class="help-block">Επιλέξτε το πρόγραμμα που επιθυμείτε.Which Product are you interested in?</p>
+                <select name="product">
+                    <option style="padding-bottom: 5px;" value="Free Solo">Δωρεάν για 1 Χρήστη</option>
+                    <option style="padding-bottom: 5px;" value="Starter 2">Starter - 10€/μήνα</option>
+                    <option style="padding-bottom: 5px;" value="Professional">Professional - 15€/μήνα</option>
+                    <option style="padding-bottom: 5px;" value="Business">Business - 20€/μήνα</option>
+                    <option style="padding-bottom: 5px;" value="Extra add-on">Έξτρα υπηρεσίες - 150€ εφάπαξ</option>
+                </select>
+                <br>
+                <br>
+                <div id="form-alert" class="alert" style="display: none; margin-bottom: 10px;"></div>
+                <div class="form-group text-center">
+                    <button class="large blue button btn btn-success btn-request">Send Inquiry</button>
+                    <br>
+                </div>
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
