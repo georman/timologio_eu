@@ -58,11 +58,11 @@ $(document).ready(function() {
       message: message,
       callback: function(r) {
             // print return message
-//        msgprint(r.message);
+        msgprint(r.message);
 
 if(r.message==="okay") {
 			frappe.msgprint("Ta kataferes filarako.");
-
+			
 		}
 
 
