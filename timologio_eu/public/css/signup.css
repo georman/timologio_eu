@@ -7,10 +7,10 @@
     border: 1px solid #CCC;
     padding: 6px 4px;
     outline: medium none;
-    color: #6B8196;
+    color: #FFF;
     margin: 0px 0px 20px;
     max-width: 100%;
     display: block;
-    background: #FFF none repeat scroll 0% 0%;
+    background: #6B8196;
     font-family: "Lato",sans-serif;
 }
