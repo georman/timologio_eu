@@ -26,7 +26,8 @@ website_context = {
 fixtures = [
                 "Contact Us Settings",
                 "Web Form",
-                "Email Alert"
+                "Email Alert",
+                "Web Page"
         ]
 # Includes in <head>
 # ------------------
