@@ -20,19 +20,19 @@ $(document).ready(function() {
     // all mandatory
     if(!(args.sender_name && args.company_name && args.company_afm && args.subdomain && args.email
         && args.phone)) {
-       frappe.msgprint("Όλα τα πεδία είναι απαραίτητα. Παρακαλώ προσπάθησε ξανά.");
+       frappe.msgprint("All fields are necessary. Please try again.");
        return;
     }
 
 		// email is valid
 		if(!valid_email(args.email)) {
-			frappe.msgprint('Παρακαλώ εισάγετε μία έγκυρη διεύθυνση email.');
+			frappe.msgprint('Please enter a valid Email Address.');
 			return false;
 		}
 
     		// subdomain in one word
 		if(args.subdomain.search(/^[a-z0-9][-a-z0-9]*[a-z0-9]$/)===-1) {
-			frappe.msgprint("Το subdomain πρέπει να περιέχει μόνο λατινικούς χαρακτήρες και αριθμούς. Παρακαλώ προσπάθησε ξανά.");
+			frappe.msgprint("Sub-domain can only contain letters, numbers and hyphens. Please try again.");
 			return false;
 		}
 
@@ -61,7 +61,7 @@ $(document).ready(function() {
         msgprint(r.message);
 
 if(r.message==="okay") {
-			frappe.msgprint("Η εγγραφή σας πραγματοποιήθηκε. Θα ενημερωθείτε μέσω email για τα στοιχεία της σύνδεσή σας.");
+			frappe.msgprint("Ta kataferes filarako.");
 			
 		}
 
