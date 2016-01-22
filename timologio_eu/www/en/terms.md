@@ -1,4 +1,4 @@
-# Όροι Χρήσης
+# Terms
 
 <p class="lead">Subscription Agreement</p>
 
@@ -18,7 +18,7 @@ This agreement covers the terms under which you can use the free, trial or paid 
 
 Services: Hosting and support services offered by us
 You, Your: The subscriber or user of our services
-We, Us, Our: Frappe Technologies Pvt. Ltd. or services offered by Frappe Technologies Pvt Ltd
+We, Us, Our: GAM Ltd. or services offered by GAM Ltd.
 Confidential Information: Information that is given from one party to another that is reasonably understood to be confidential.
 
 ### 3. Services
