@@ -6,7 +6,7 @@
   "days_in_advance": 0, 
   "docstatus": 0, 
   "doctype": "Email Alert", 
-  "document_type": "Frappe Job Applicant", 
+  "document_type": "Job Applicant", 
   "enabled": 1, 
   "event": "New", 
   "message": "New Job Applicant. Please see attachment.", 

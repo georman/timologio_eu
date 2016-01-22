@@ -5,7 +5,7 @@
   "allow_edit": 1, 
   "allow_multiple": 0, 
   "breadcrumbs": null, 
-  "doc_type": "Frappe Job Applicant", 
+  "doc_type": "Job Applicant", 
   "docstatus": 0, 
   "doctype": "Web Form", 
   "introduction_text": "Thanks for your interest. Please fill the following fields to the best of your ability.", 
