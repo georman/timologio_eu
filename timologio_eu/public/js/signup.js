@@ -52,7 +52,7 @@ $(document).ready(function() {
         + "Product: " + args.product
 
     erpnext.send_message({
-      subject:'New Website Query',
+      subject:"Νέα εγγραφή" + args.product,
       sender: $('[name="email"]').val(),
       status: 'Open',
       message: message,
