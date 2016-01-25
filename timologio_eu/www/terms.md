@@ -1,95 +1,118 @@
 # Όροι Χρήσης
 
-<p class="lead">Subscription Agreement</p>
+<p class="lead">Συμφωνία Συνδρομής</p>
 
-Version: 1.0
-Date: 1st January 2016
+Έκδοση: 1.0
+Ημερομηνία: 1η Ιανουαρίου 2016
 
 
-### Introduction
+### Πρόλογος
 
-GAM Ltd. is the publisher of "timologio.gr" and offers hosting and support services for the same. The software is available under the GNU/GPL licenses and others as specified in the source code. This agreement is not about the software (which is available under the General Public License) but for the hosting and support services that are provided commercially.
+Η GAM ΕΠΕ είναι η εκδότρια της ιστοσελίδας timologio.gr και παρέχει φιλοξενία και υπηρεσίες υποστήριξης για την ιστοσελίδα timologio.gr και timologio.eu. Το λογισμικό είναι ανοιχτού κώδικα GNU/GPL και όπως ορίζεται  στον πηγαίο κώδικα. Αυτή η συμφωνία δεν είναι για το λογισμικό (το οποίο είναι ανοιχτού κώδικα) αλλά  για τη φιλοξενία και τις υπηρεσίες υποστήριξης που παρέχονται από εμάς εμπορικά.
 
 ### 1. Scope
 
-This agreement covers the terms under which you can use the free, trial or paid services offered by us. If you are agreeing to use the services on behalf of your company or organization, you agree that you represent the organization and have the authority to accept this agreement on behalf of your organization.
+Η συμφωνία καλύπτει τους όρους υπό τους οποίους μπορείτε να χρησιμοποιήσετε την δωρεάν  ή τις επί πληρωμή υπηρεσίες που προσφέρονται από εμάς. Αν συμφωνείτε να χρησιμοποιείτε τις υπηρεσίες μας για λογαριασμό της εταιρείας σας, παραδέχεστε ότι εκπροσωπείτε την εταιρεία και έχετε την εξουσιοδότηση να αποδεχτείτε αυτή τη συμφωνία για λογαριασμό της εταιρεία σας.
 
-### 2. Definitions
+### 2. Ορισμοί
 
-Services: Hosting and support services offered by us
-You, Your: The subscriber or user of our services
-We, Us, Our: Frappe Technologies Pvt. Ltd. or services offered by Frappe Technologies Pvt Ltd
-Confidential Information: Information that is given from one party to another that is reasonably understood to be confidential.
+Υπηρεσίες: Φιλοξενία και υποστήριξη υπηρεσιών που προσφέρονται από εμάς
+Εσείς, Εσάς: Ο συνδρομητής ή ο χρήστης των υπηρεσιών μας
+Εμείς, Εμάς, μας: GAM ΕΠΕ. ή υπηρεσίες που προσφέρονται από την GAM ΕΠΕ.
+Εμπιστευτικές Πληροφορίες: Οι πληροφορίες που δίνονται από τον ένα στον άλλο και είναι εύλογα κατανοητό ότι είναι εμπιστευτικές.
 
-### 3. Services
+### 3. Υπηρεσίες
 
-The Services offered by us are hosting and support services. The software, whether it is developed by us or by third parties is available to you under Open Source Licenses (as specified in the software code) and is not covered in the Services offered by us.
+Οι υπηρεσίες που προσφέρονται από εμάς είναι φιλοξενία και υποστήριξη. Το λογισμικό, που αναπτύσσεται από εμάς ή από τρίτους είναι στη διάθεσή σας κάτω από άδειες Ανοικτού Κώδικα (όπως ορίζεται στον κώδικα του λογισμικού) και δεν καλύπτονται από τις υπηρεσίες που προσφέρονται από εμάς.
 
-The services will be available to you via the internet browser (specific browsers versions as applicable) and you will need an internet connection to access our services.
+Οι υπηρεσίες θα είναι στη διάθεσή σας μέσω του προγράμματος περιήγησης στο διαδίκτυο και θα χρειαστείτε μια σύνδεση στο Διαδίκτυο (Internet) για να έχετε πρόσβαση στις υπηρεσίες μας.
 
-### 4. Service Levels
+### 4. Επίπεδα υπηρεσιών
 
-We host Your data at international data centers and the service levels offered by them will be applicable to You. We will reasonably put all effort to ensure that the servers managed by us are up and running 24x7. If You wish to host your application at your own servers or servers managed by you, then You are free to do it.
+Φιλοξενούμε τα δεδομένα σας σε διεθνή κέντρα δεδομένων και τα επίπεδα υπηρεσιών που μας προσφέρονται ισχύουν και για εσάς. Θα κάνουμε όλες τις δυνατές προσπάθειες για να διασφαλίσουμε ότι οι διακομιστές που διαχειριζόμαστε λειτουργούν 24x7.
 
-If You choose to do it, then there is no obligation on Our part to support Your servers and You will not have to pay for our Services. If You would want Our Services to support and maintain Your servers then they will be charged.
+Αν θέλετε να φιλοξενήσετε την εφαρμογή στο δικό σας διακομιστή (server), είστε ελεύθεροι να το κάνετε.
+Σε αυτή την περίπτωση δεν υπάρχει καμία υποχρέωση από μέρους μας για την υποστήριξη του διακομιστή (server) σας.  Εάν επιθυμείτε αναλαμβάνουμε την υποστήριξη με χρέωση.
 
-### 5. Confidentiality and Privacy
 
-Your information / data is owned by You and is a part of your database / files and is treated as Confidential Information. We will ensure that Your Confidential Information is managed with the same level of security as Our Confidential Information. We will take all reasonable effort to ensure that any Confidential Information is managed in a secure manner by using rights management and password encryption. We may or may not publish our security measures to maintain their secrecy.
+### 5. Εμπιστευτικότητα και προστασία προσωπικών δεδομένων
 
-### 6. Purchasing
+Οι πληροφορίες και τα δεδομένα σας, ανήκουν σε εσάς και είναι  μέρος της βάσης δεδομένων / αρχείων σας και  αντιμετωπίζονται ως εμπιστευτικά δεδομένα. Οι εμπιστευτικές σας πληροφορίες διαχειρίζονται από εμάς με το ίδιο επίπεδο ασφάλειας που διαχειριζόμαστε τις δικές μας εμπιστευτικές πληροφορίες. Θα λάβουμε όλα τα εύλογα μέτρα για να εξασφαλίσουμε ότι οι εμπιστευτικές πληροφορίες διαχειρίζονται με ασφαλή τρόπο, χρησιμοποιώντας διαχείριση δικαιωμάτων των χρηστών και κρυπτογράφηση των κωδικών πρόσβασης. Δεν μπορούμε να δημοσιεύσουμε τα μέτρα ασφαλείας μας για να διατηρηθεί το απόρρητο του χαρακτήρα τους.
 
-Our services can be purchased as specified on our website, via online money transfers or using third party services such as PayPal or in some cases, checks.
+### 6. Αγορές
 
-If you have not Purchased Our Services, then we have a right to terminate them. We will hold your data for a period of 30 days till which you can download your data. After that your data could be lost.
+Οι υπηρεσίες μας μπορούν να αγοραστούν, όπως ορίζεται στην ιστοσελίδα μας, μέσω τραπεζικής μεταφοράς χρημάτων ή τη χρήση υπηρεσιών τρίτων, όπως το PayPal.
 
-### 7. Rate Inflation
+Αν δεν έχετε αγοράσει τις υπηρεσίες μας, τότε έχουμε το δικαίωμα να καταγγείλουμε τον ΔΩΡΕΑΝ λογαριασμό σας. Θα κρατήσουμε τα δεδομένα σας για μια περίοδο 30 ημερών μέχρι την οποία μπορείτε να τα κατεβάσετε. Μετά την πάροδο 30 ημερών τα δεδομένα ΔΙΑΓΡΑΦΟΝΤΑΙ.
 
-We reserve the right to increase our price or change the pricing model as and when we see fit. Incase if we have a price rise and you are unhappy, we will allow you to use the service for a period of three months under the old rate.
+### 7. Αλλαγή Τιμοκαταλόγου
 
-We also reserve the right to change the resource allocated, number of users, or any such parameter for any of our free or paid plans as we see fit.
+Διατηρούμε το δικαίωμα να αυξήσουμε τις τιμές μας ή να αλλάξουμε το μοντέλο τιμολόγησης, όπως και όταν αυτό κρίνετε απαραίτητο. Σε περίπτωση που δεν επιθυμήτε να συνεχίσετε, θα σας επιτρέψουμε να χρησιμοποιήσετε την υπηρεσία για περίοδο τριών μηνών με τον παλιό τιμοκατάλογο. Μετά το πέρας των τριών μηνών ο λογαριασμό σας θα διαγραφή.
 
-Please note that ERPNext and Frappe Apps are Free and Open Source software and you are free to purchase hosting and support services from any other vendor or host it yourself at no cost.
+Διατηρούμε επίσης το δικαίωμα, όποτε αυτό κρίνετε αναγκαίο, να αλλάξουμε τους πόρους που κατανεμήθηκαν, τον αριθμό των χρηστών, ή οποιαδήποτε παράμετρο για οποιοδήποτε πακέτο (δωρεάν ή επί πληρωμή).
 
-### 8. Backups
 
-Even though we keep multiple and redundant backups, We do not guarantee Your backup and You are also advised to download Your own copy of the backup from time to time from within your ERPNext account by going to Tools -> Download Backup (or as specified).
+### 8. Αντίγραφα ασφαλείας
 
-### 9. Warranty
+Προκειμένου να αποφευχθεί η απώλεια δεδομένων που οφείλονται σε λάθη ή αστοχίες του συστήματος, κρατάμε αντίγραφα ασφαλείας των δεδομένων, συμπεριλαμβανομένων των περιεχομένων του λογαριασμού χρήστη σας
+Ακόμα κι αν κρατάμε πολλαπλά αντίγραφα ασφαλείας καθημερινά, δεν εγγυόμαστε τα αντίγραφα ασφαλείας και σας συμβουλεύουμε να κατεβάζετε το δικό σας αντίγραφο ασφαλείας σε τακτά χρονικά διαστήματα από τον λογαριασμό σας, πηγαίνοντας στο Εργαλεία -> Λήψη αντιγράφων ασφαλείας (ή όπως καθορίζεται).
 
-We do not provide any warranty for our Services for fitness or purpose. You are fully responsible for the data your enter and the accuracy of the data. We are not responsible for any Loss of business or any other kind that may arise due to the use of our Services.
 
-### 10. Liability
+### 9. Εγγύηση
 
-Our maximum liability is limited to the amount that you have paid us for our Services for the past one year.
+Δεν παρέχουμε καμία εγγύηση για τις υπηρεσίες μας και την καταλληλότητα της εφαρμογής. Είστε πλήρως υπεύθυνοι για την εισαγωγή των δεδομένων και την ακρίβεια των στοιχείων. Δεν είμαστε υπεύθυνοι για οποιαδήποτε απώλεια δεδομένων της επιχείρησης σας  ή οποιουδήποτε άλλου είδους που μπορεί να προκύψει από τη χρήση των υπηρεσιών μας.
 
-### 11. Indemnity
+### 10. Ευθύνη
 
-Both You and We agree to indemnify each other against any claims by any third party. We agree to indemnify you in case of any claim by a third party that by using our services, you are infringing their intellectual property rights. In turn you will indemnify us against any third party that claims that by offering you services or hosting your data, we are infringing their intellectual property rights.
+Συμφωνείτε ότι το timologio.gr , σε καμία περίπτωση, δε θα ευθύνεται για οποιαδήποτε αποθετική, παρεπόμενη, έμμεση, ειδική ή άλλη απώλεια ή ζημίας ή απώλειας κερδών, διακοπής επιχειρηματικών δραστηριοτήτων, αποτυχίας υπολογιστών, απώλεια επιχειρηματικών πληροφοριών, ή άλλες ζημίες που θα προκύψουν από ή προκαλούνται από τη χρήση ή την αδυναμία να χρησιμοποιήσετε οποιαδήποτε από τις Υπηρεσίες του timologio.gr.
 
-### 12. Termination
+Η **μέγιστη** ευθύνη μας περιορίζεται στο ποσό που έχετε πληρώσει για τις υπηρεσίες μας.
 
-The services are automatically terminated if the subscription expires. To continue the service, you must buy subscription. We have a right to terminate the services if we believe that you are abusing our Services.
+### 11. Spamming και Παράνομες Δραστηριότητες
 
-### 13. Refund
+Συμφωνείτε ότι είστε αποκλειστικά υπεύθυνοι για το περιεχόμενο των μεταδόσεων σας μέσω των Υπηρεσιών μας. Συμφωνείτε ότι δεν θα χρησιμοποιήσετε τις Υπηρεσίες για παράνομους σκοπούς ή για την διαβίβαση του υλικού που είναι παράνομο, δυσφημιστικό, ενοχλητικό, συκοφαντικό, που παραβιάζει την ιδιωτικότητα του άλλου, υβριστικό, απειλητικό, επιβλαβές, χυδαίο, πορνογραφικό, άσεμνο, αποδοκιμαστέο, προσβάλλει θρησκευτικές συναισθήματα, προωθεί το ρατσισμό, περιέχει ιούς, παραβιάζει ή μπορεί να παραβιάζει την πνευματική ιδιοκτησία ή τα δικαιώματα του άλλου. Συμφωνείτε ότι δεν θα χρησιμοποιήσετε τις Υπηρεσίες για τη διαβίβαση των "junk mail", "ανεπιθύμητη αλληλογραφία", "αλυσιδωτές επιστολές", "phishing" ή εκούσια μαζική διανομή ηλεκτρονικού ταχυδρομείου. Διατηρούμε το δικαίωμα να τερματίσουμε την πρόσβασή σας στις Υπηρεσίες timologio.gr εάν υπάρχουν βάσιμοι λόγοι να πιστεύουμε ότι έχετε χρησιμοποιήσει τις Υπηρεσίες για οποιαδήποτε παράνομη ή μη εξουσιοδοτημένη δραστηριότητα.
 
-Upon termination, we will refund you any unused credits by check / PayPal or any such mechanism within 15 days.
+### 12. Λήξη
 
-### 14. Data
+Οι υπηρεσίες τερματίζονται αυτόματα με την  λήξη της συνδρομή σας. Για να συνεχίσετε την υπηρεσία, θα πρέπει να ανανεώσετε την συνδρομή σας. Έχουμε το δικαίωμα να διακόψουμε τις υπηρεσίες αν πιστεύουμε ότι κάνετε κατάχρηση αυτών.
 
-You can ask for your data for a period of 30 days after the termination. You will get a database dump of your data by raising a support ticket
+### 13. Επιστροφή χρημάτων
 
-### 15. Agreement Modification
+Μετά τον τερματισμό, θα σας επιστρέψουμε οποιεσδήποτε διαφορές προκύπτουν μέσω τραπέζης.
+Με την Εγγραφή σας  προσφέρουμε 30 Ημέρες Εγγύηση Επιστροφής Χρημάτων. Αν μέσα σε 30 ημέρες από την εγγραφή σας δεν επιθυμήτε να συνεχίσετε σας επιστρέφουμε το συνολικό ποσό.
 
-This agreement is subject to change and we will update you via email incase we make any changes.
+### 14. Δεδομένα
 
-Company: GAM Ltd.
+Μπορείτε να ζητήσετε τα δεδομένα σας για  περίοδο 30 ημερών μετά τη λήξη του προγράμματος που ανήκετε.
 
-Registered Address: 13 Irakleous str., 13673 Acharnai, Athens, Greece
+### 15. Τροποποίηση των Όρων Χρήσης
 
-Jurisdiction: Athens, Greece
+Μπορούμε να τροποποιήσουμε τους Όρους κατόπιν ειδοποίησης σας ανά πάσα στιγμή. Θα ειδοποιηθείτε για οποιαδήποτε τέτοια τροποποίηση μέσω ηλεκτρονικού ταχυδρομείου ή δημοσιεύοντας τις αλλαγές στην ιστοσελίδα. Μπορείτε να διακόψετε τη χρήση των Υπηρεσιών εφόσον οι όροι τροποποιηθούν κατά τρόπο που να επηρεάζει ουσιαστικά τα δικαιώματά σας σε σχέση με τη χρήση των Υπηρεσιών. Η συνεχής χρήση μιας Υπηρεσίας μετά από σχετική ειδοποίηση για τυχόν μεταβολή των Όρων θα θεωρείται ως συμφωνία σας με τους τροποποιημένους όρους.
 
-Dated: 1st January 2016
+### 16. Μη επιβεβαιωμένοι Λογαριασμοί Χρηστών
+
+Διατηρούμε το δικαίωμα να απενεργοποιήσουμε μη επιβεβαιωμένους λογαριασμούς χρηστών (π.χ. λογαριασμοί για τους οποίους δεν έχει ολοκληρωθεί η διαδικασία επαλήθευσης της διεύθυνσης ηλεκτρονικού ταχυδρομείου) μετά από μια περίοδο 10 ημερών. Σε περίπτωση μιας τέτοιας απενεργοποίησης, ο κάτοχος του λογαριασμού μπορεί να επικοινωνήσει με το timologio.gr εντός των επόμενων 30 ημερών ζητώντας επανενεργοποίηση. Σε διαφορετική περίπτωση το timologio.gr θα διαγράψει το λογαριασμό και όλα τα δεδομένα που σχετίζονται με αυτό. Το timologio.gr διατηρεί το δικαίωμα να αρνηθεί ένα αίτημα επανενεργοποίησης, ιδίως στην περίπτωση των συνεχόμενων αποτυχιών επαλήθευσης λογαριασμού από την πλευρά του ιδιοκτήτη του λογαριασμού.
+
+### 17. Αποποίηση Εγγυήσεων
+
+Καταλαβαίνετε και συμφωνείτε ότι η χρήση των Υπηρεσιών timologio.gr γίνεται αποκλειστικά με δική σας ευθύνη. Το timologio.gr αποποιείται ρητά όλες τις εγγυήσεις οποιουδήποτε είδους, είτε ρητή είτε σιωπηρή, συμπεριλαμβανομένων αλλά χωρίς να περιορίζονται σε αυτές, των σιωπηρών εγγυήσεων με την εμπορευσιμότητα και την καταλληλότητα για ένα συγκεκριμένο σκοπό. Το timologio.gr δεν παρέχει καμία εγγύηση ότι οι Υπηρεσίες θα είναι συνεχής, έγκαιρες, ασφαλής ή χωρίς ιούς. Η χρήση οποιουδήποτε υλικού που μεταφορτώνεται ή λαμβάνονται μέσω της χρήσης των Υπηρεσιών timologio.gr πρέπει να είναι δική σας ευθύνης και θα είστε αποκλειστικά υπεύθυνοι για οποιαδήποτε ζημιά στο σύστημα του υπολογιστή σας, το κινητό τηλέφωνο, ασύρματη συσκευή ή δεδομένων που προκύπτουν από τη χρήση των Υπηρεσιών timologio.gr ή τη λήψη οποιουδήποτε τέτοιου υλικού.
+
+### 18. Περιορισμός της Ευθύνης
+
+Συμφωνείτε ότι το timologio.gr, σε καμία περίπτωση, δε θα ευθύνεται για οποιαδήποτε αποθετική, παρεπόμενη, έμμεση, ειδική ή άλλη απώλεια ή ζημίας ή απώλειας κερδών, διακοπής επιχειρηματικών δραστηριοτήτων, αποτυχίας υπολογιστών, απώλεια επιχειρηματικών πληροφοριών, ή άλλες ζημίες που θα προκύψουν από ή προκαλούνται από τη χρήση ή την αδυναμία να χρησιμοποιήσετε οποιαδήποτε από τις Υπηρεσίες timologio.gr, ακόμη και αν το timologio.gr έχει συμβουλευτεί για την πιθανότητα τέτοιων ζημιών. Μοναδική και αποκλειστική σας αποζημίωση για οποιαδήποτε διαφωνία σας με το timologio.gr που σχετίζεται με οποιαδήποτε από τις Υπηρεσίες θα είναι η λήξη της εν λόγω Υπηρεσίας. Σε καμία περίπτωση η συνολική ευθύνη του timologio.gr απέναντι σε εσάς, όσον αφορά οποιαδήποτε υπηρεσία, άμεση ή έμμεση, δε θα υπερβαίνει τα τέλη που καταβάλλονται από εσάς προς την εν λόγω υπηρεσία.
+
+### 18. Αναστολή και Τερματισμός
+
+Ενδέχεται να αναστείλουμε το λογαριασμό χρήστη σας ή να απενεργοποιήσουμε προσωρινά την πρόσβαση στο σύνολο ή σε μέρος οποιασδήποτε Υπηρεσίας, σε περίπτωση που υπάρχουν τυχόν υπόνοιες παράνομης δραστηριότητας, εκτεταμένες περιόδους αδράνειας ή αιτήματα από τις αρχές επιβολής του νόμου ή άλλες κρατικές υπηρεσίες. Θα τερματίσουμε επίσης και το λογαριασμό χρήστη σας μετά από αίτημά σας. Επιπλέον, διατηρούμε το δικαίωμα να τερματίσουμε το λογαριασμό χρήστη σας και να απαγορεύσουμε τις υπηρεσίες μετά από εύλογη πεποίθηση ότι έχετε παραβιάσει τους Όρους. Τερματισμός του λογαριασμού χρήστη θα περιλαμβάνει την άρνηση της πρόσβασης σε όλες τις Υπηρεσίες μας, διαγραφή δεδομένων του λογαριασμό χρήστη σας, όπως η διεύθυνση email και ο κωδικός πρόσβασή σας και τη διαγραφή όλων των δεδομένων στο λογαριασμό χρήστη σας.
+<br><br>
+
+Εταιρεία: **GAM ΕΠΕ.**
+
+Διεύθυνση: **Ηρακλέους 13 – 136 73 Αχαρναί, Αθήνα,
+Ελλάδα**<br>
+Τηλ. 210 2774201 - 001<br>
+Αρμόδια Δικαστήρια: Αθήνα, Ελλάδα<br>
+Ημερομηνία: 1η Ιανουαρίου 2016
 
 ---
 
