@@ -1,4 +1,4 @@
-# Tomologio VIP
+# Timologio VIP
 
 <p class="lead">Upto 50 hours of Consulting, that covers everything we know from implementation, integration, deployment, developer support, design reviews etc.</p>
 
