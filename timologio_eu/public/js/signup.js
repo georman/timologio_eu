@@ -15,11 +15,11 @@ $(document).ready(function() {
         email: $('[name="email"]').val(),
         phone: $('[name="phone"]').val(),
         product: $('[name="product"]').val(),
+        terms: $('[name="terms"]').val(),
       }
 
     // all mandatory
-    if(!(args.sender_name && args.company_name && args.company_afm && args.subdomain && args.email
-        && args.phone)) {
+    if(!(args.sender_name && args.subdomain && args.company_name && args.company_afm && args.email && args.phone && args.product && args.terms)) {
        frappe.msgprint("Όλα τα πεδία είναι απαραίτητα. Παρακαλώ προσπάθησε ξανά.");
        return;
     }
@@ -49,7 +49,8 @@ $(document).ready(function() {
         + "Subdomain: " + args.subdomain + "\n"
         + "Email: " + args.email + "\n"
         + "Phone: " + args.phone + "\n"
-        + "Product: " + args.product
+        + "Product: " + args.product + "\n"
+        + "Terms: " + args.terms + "\n"
 
     erpnext.send_message({
       subject:"Nea Eggrafi " + args.product,
