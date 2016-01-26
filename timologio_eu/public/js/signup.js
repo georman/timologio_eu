@@ -30,6 +30,12 @@ $(document).ready(function() {
 			return false;
 		}
 
+		// Terms
+		if(args.terms==="No") {
+			frappe.msgprint('Παρακαλώ πρέπει να συμφωσήσετε με τους όρους χρήσης.');
+			return false;
+		}
+		
     		// subdomain in one word
 		if(args.subdomain.search(/^[a-z0-9][-a-z0-9]*[a-z0-9]$/)===-1) {
 			frappe.msgprint("Το subdomain πρέπει να περιέχει μόνο λατινικούς χαρακτήρες και αριθμούς. Παρακαλώ προσπάθησε ξανά.");
@@ -59,7 +65,6 @@ $(document).ready(function() {
       message: message,
       callback: function(r) {
             // print return message
-        msgprint(r.message);
 
 if(r.message==="okay") {
 			frappe.msgprint("Η εγγραφή σας πραγματοποιήθηκε. Θα ενημερωθείτε μέσω email για τα στοιχεία της σύνδεσή σας.");
