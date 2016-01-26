@@ -20,7 +20,8 @@ website_context = {
 		{"label": "Χαρακτηριστικά", "url": "/features", "right":1},
 		{"label": "Επικοινωνία", "url": "/contactus", "right":1},
 	],
-	"hide_login": 1
+	"hide_login": 1,
+	"favicon": "/assets/timologio_eu/img/timologio_favicon.png"
 }
 
 fixtures = [
